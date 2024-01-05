@@ -16,15 +16,7 @@ body {
   align-items: center;
   min-height: 100vh;
   overflow: hidden;
-  background: linear-gradient(
-      90deg,
-      transparent 7.9rem,
-      #abced4 7.9rem,
-      #abced4 8.1rem,
-      transparent 8.1rem
-    ),
-    linear-gradient(#eee 0.1rem, transparent 0.1rem), #fff;
-  background-size: 100% 3rem;
+  background: background: #2D3250;
   font: 2.5rem "Architects Daughter", cursive;
   color: #2696aa;
 }
